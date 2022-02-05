@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppActivity</string>
+    <string name="App_Adrian">AdrianTec</string>
+    <string name="Txt_Name">Nombre</string>
+    <string name="txt_password">Password</string>
+    <string name="Botton">Guardar</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="Tv2">Bien hecho!</string>
+    <string name="BotonAnterior">Anterior</string>
+
+</resources>
